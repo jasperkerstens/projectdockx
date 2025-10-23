@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: rgb(122, 198, 217);
+    color: #000000;
+    height:auto;
+    min-height:100vh;
+}
+body.week1{
+    background-color: rgb(122, 198, 217);
+    color: #000000;
+    height:auto;
+    min-height:100vh;
+}
+
+/* Container styling */
+.container {
+font-family: "roboto", sans-serif;
+    margin-left: 20vw;
+    margin-right: auto;
+}
+
+.title {
+    font-family: 'Montserrat';
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-top: 2em;
+}
+
+
